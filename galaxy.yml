@@ -1,6 +1,6 @@
 namespace: "alikins"
 name: "collection_no_content"
-version: "1.0.3"
+version: "1.0.4"
 description: "a collection with no content"
 authors: ["Adrian Likins"]
 tags:
