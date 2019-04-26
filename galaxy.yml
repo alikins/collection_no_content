@@ -1,8 +1,9 @@
 namespace: "alikins"
 name: "collection_no_content"
-version: "1.0.4"
+version: "1.0.5"
 description: "a collection with no content"
 authors: ["Adrian Likins"]
 tags:
   - collectiontest
-license: "GPL-3.0-or-later"
+license:
+  - "GPL-3.0-or-later"
